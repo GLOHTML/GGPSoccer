@@ -1,0 +1,8 @@
+1. tambahkan layout disabled & event sheet ✔
+2. tambah object Browser & AJAX kalo belom ada ✔
+3. copy event sheet disabled dari contoh game yang ada, ganti layout yg dituju kalau checkallow return "OK" ✔
+4. pada start game panggil fungsi javascript startPlay() ✔
+5. pada start game over fungsi javascript doRecordVisit() ✔
+6. set first layout di project setting jadi layout disabled
+7. untuk pencatatan score panggil fungsi javascript saveData(name,score,phone(tidak wajib),email(tidak wajib)) //Butuh input nama, butuh hitung score
+8. copy file scoretable.php, RecordVisit.php, CheckAllow.php, SaveData.php dari contoh game construct yg ada
